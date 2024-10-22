@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alondra Ferra</h1>
 <h3 align="center">I'm a data enthusiast with a background in business management.</h3>
 
-- 👨‍💻 All of my Data Visualization Projects are available at [https://public.tableau.com/app/profile/alondra.ferra/vizzes](https://public.tableau.com/app/profile/alondra.ferra/vizzes)
-
 - 📄 I enjoy working with **Python, SQL, and Tableau to dive into real-world data and uncover insights that drive decision-making.**
+
+- 👨‍💻 All of my Data Visualization Projects are available at [https://public.tableau.com/app/profile/alondra.ferra/vizzes](https://public.tableau.com/app/profile/alondra.ferra/vizzes)
 
 - 📫 How to reach me **alondra.ferra@gmail.com**
 
